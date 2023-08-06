@@ -5,8 +5,8 @@ avatar_filename: 刘佳琦-个人照.jpg
 bio: My research interests include reinforcement learning and autonomous driving.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Driving
+  - Intelligent Transportation System
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,6 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a Master student from Tongji University. My research interests include reinforcement learning, decision-making of autonomous driving, and intelligent transportation system.
