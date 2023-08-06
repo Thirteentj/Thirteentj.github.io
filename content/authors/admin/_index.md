@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,9 +40,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Transportation Engineering
+      institution: https://www.tongji.edu.cn/
+      year: 2022
 superuser: true
 status:
   icon: ☕️
