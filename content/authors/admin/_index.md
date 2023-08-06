@@ -1,8 +1,7 @@
 ---
 title: Jiaqi Liu
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Master Student
+bio: My research interests include reinforcement learning and autonomous driving.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
