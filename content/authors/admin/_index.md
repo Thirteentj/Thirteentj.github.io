@@ -11,21 +11,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: liujiaqi13@tongji.edu.cn
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.sg/citations?user=aYiEdlsAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -34,14 +22,11 @@ organizations:
     url: https://www.tongji.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Tongji University
+      year: ""
     - course: BSc in Transportation Engineering
-      institution: https://www.tongji.edu.cn/
+      institution: Tongji University
       year: 2022
 superuser: true
 status:
@@ -49,6 +34,6 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: liujiaqi13@tongji.edu.cn
 ---
 I am a Master student from Tongji University. My research interests include reinforcement learning, decision-making of autonomous driving, and intelligent transportation system.
