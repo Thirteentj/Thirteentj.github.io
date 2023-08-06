@@ -1,6 +1,7 @@
 ---
 title: Jiaqi Liu
 role: Master Student
+avatar_filename: 刘佳琦-个人照.jpg
 bio: My research interests include reinforcement learning and autonomous driving.
 interests:
   - Artificial Intelligence
